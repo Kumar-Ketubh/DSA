@@ -78,4 +78,6 @@ int main() {
         else if (ch == 5) searchElement();
         else break;
     }
+    return 0;
 }
+
